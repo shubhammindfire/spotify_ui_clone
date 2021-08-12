@@ -1,5 +1,6 @@
 
-src/components/spotify/spotify_credentials.js
+# included this in the code pushed as it is used for demo
+# src/components/spotify/spotify_credentials.js
 
 # dependencies
 node_modules/
